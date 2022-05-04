@@ -2,4 +2,8 @@
 2)Google Earth Engine : https://courses.spatialthoughts.com/end-to-end-gee.html#introduction
 3)ML for EO :  https://github.com/RadiantMLHub/ml4eo-bootcamp-2021
 4)Earth DS : https://www.earthdatascience.org/courses/
-5) EO college : https://eo-college.org/welcome
+5)EO college : https://eo-college.org/welcome
+6) MIT OCW GPS: https://ocw.mit.edu/courses/12-s56-gps-where-are-you-fall-2008/pages/lecture-notes/
+7) GDAL / OCR: https://courses.spatialthoughts.com/gdal-tools.html#introduction
+8) Coursera: GIS Specialization(Univ of Toronto)
+9) Coursera : Remote Sensing Image Acquisition , Analysis and Application(UNSW Sydney)
